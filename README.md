@@ -1,6 +1,9 @@
 # Plano de Ensino: Programação com C# e POO
+
 **Duração:** 45 dias
+
 **Carga horária diária:** 4 horas
+
 **Público-alvo:** Iniciantes em programação com conhecimentos básicos de lógica
 
 ## Objetivos do Curso
