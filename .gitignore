@@ -23,6 +23,7 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 
+
 # Resultados de teste e cobertura
 TestResults/
 [Cc]overage/
